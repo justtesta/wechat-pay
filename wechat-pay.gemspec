@@ -23,5 +23,5 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'rest-client', '~> 2.0', '>= 2.0.0'
   s.add_development_dependency 'rake', '~> 13.0', '>= 13.0.3'
   s.add_development_dependency 'rspec', '~> 3.10.0'
-  s.add_development_dependency 'rubocop', '~> 1.14.0'
+  #s.add_development_dependency 'rubocop', '~> 1.14.0'
 end
